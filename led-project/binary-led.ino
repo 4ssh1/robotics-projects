@@ -7,6 +7,7 @@
 //   array index 2 -> fours place (2^2) -> wired to physical pin 4
 //   array index 3 -> eights place(2^3) -> wired to physical pin 5
 const int ledPins[] = {2, 3, 5, 6}; 
+
 const int numPins = 4; 
 
 void setup() {

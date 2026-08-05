@@ -16,5 +16,6 @@ void loop() {
    v2 = (5. /1023.) * readVal;
 
    Serial.println(v2);
+   
    delay(delayRead);
 }

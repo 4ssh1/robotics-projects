@@ -1,6 +1,7 @@
 # Robotics Learning Journey
 
 Welcome to my robotics learning repository! I'm Sarah Nzeshi, a mechanical engineering graduate who ventured into software engineering during my third year of university. 
+
 After spending the last few years building full-stack applications and diving deep into system design, I am now coming full circle to specialize in robotics. 
 
 This repository serves as the central codebase for my ongoing transition, acting as a companion to the progress and lessons I share online as I work to bridge the gap between 
